@@ -1,7 +1,7 @@
 
-# Dinner
+# FULL
 
-Dinner is a prototype of a **conveyor belt 4 axis tangential rotary knife cnc fabric cutter** for single ply cutting.
+FULL is a prototype of a **conveyor belt 4 axis tangential rotary knife cnc fabric cutter** for single ply cutting.
 
 ![Fabric Cutter](https://github.com/rbuttress/dinner/blob/main/dinner.jpeg)
 [https://www.youtube.com/watch?v=8nrIL4Qvl0I](https://www.youtube.com/watch?v=8nrIL4Qvl0I&ab_channel=RoseButtress)
